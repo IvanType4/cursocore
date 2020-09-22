@@ -1,0 +1,2 @@
+# cursocore
+Ejercicios y apuntes
